@@ -1,0 +1,4 @@
+Discord Bot Ideas
+
+-Coin flip
+-Disconnect function
